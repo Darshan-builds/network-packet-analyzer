@@ -1,0 +1,24 @@
+# Advanced Network Packet Analyzer - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core packet manipulation and capture
+scapy>=2.5.0
+
+# Terminal UI and visualization
+rich>=13.0.0
+
+# Optional: Advanced analysis features
+# Uncomment if you want ML-based anomaly detection
+# numpy>=1.24.0
+# scikit-learn>=1.3.0
+
+# Optional: GeoIP lookups
+# geoip2>=4.7.0
+# maxminddb>=2.6.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.7.0
+# flake8>=6.1.0
+# mypy>=1.5.0
