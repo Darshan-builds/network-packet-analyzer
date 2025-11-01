@@ -46,7 +46,7 @@ A professional-grade network packet capture and analysis toolkit for Linux syste
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/network-packet-analyzer.git
+git clone https://github.com/Darshan-builds/network-packet-analyzer.git
 cd network-packet-analyzer
 ```
 
@@ -429,7 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Cybersecurity Educational Toolkit Team**
+- **Darshan Gholap**
 
 ## 🙏 Acknowledgments
 
